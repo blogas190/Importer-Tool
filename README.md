@@ -1,5 +1,7 @@
 This repository has a prototype of a Unity file importer tool
 
+You can find the code in the "Assets/Editor" directory
+
 Currently it only imports .png files into your project, but further modifications are possible to support more file formats
 
 ***How To Use The Tool***
